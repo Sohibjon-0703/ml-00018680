@@ -1,0 +1,5 @@
+.venv
+data/raw
+data/interim
+.git
+notebooks/.ipynb_checkpoints
